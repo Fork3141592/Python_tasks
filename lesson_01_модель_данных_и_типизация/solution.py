@@ -7,10 +7,10 @@ def make_pair(kind):
     original = [1, 2, 3]
     if kind == "alias":
         second = original
-        return (original,second)
+        return original,second
     if kind == "copy":
         second = original.copy()
-        return (original,second)
+        return original,second
 
     # TODO: верни (original, second)
     ...
