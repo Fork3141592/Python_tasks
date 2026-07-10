@@ -25,7 +25,6 @@ def collatz_steps(n):
             steps += 1
     return steps
     ...
-
 # ---- Задача 2.3: Первый повтор ----
 def first_duplicate(seq):
     posled = set()
@@ -36,8 +35,23 @@ def first_duplicate(seq):
     else:
         return None
     ...
-
 # ---- Задача 2.4: Интерпретатор команд (структурные шаблоны) ----
 def run(command, pos):
+    x, y = pos
+    match command:
+        case ["move", str(d), int(n)]:
+            if d == "up":
+                return(x, y + n)
+            elif d == "down":
+                return(x, y - n)
+            elif d == "right":
+                return(x + n, y)
+            elif d == "left":
+                return(x - n, y)
+            else:
+                return pos  
+        case ["reset"]:
+            return (0, 0)
+        case _:
+            return pos  
     ...
-
