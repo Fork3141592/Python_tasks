@@ -7,11 +7,7 @@ pytest test_lesson.py -v
 def make_pair(kind):
     original = [1, 2, 3]
     # TODO: верни (original, second)
-    if kind == "alias":
-        second = original
-    elif kind == "copy":
-        second = original[:]
-    return original, second
+    ...
 
 
 # ---- Задача 1.2: Только настоящие int ----
