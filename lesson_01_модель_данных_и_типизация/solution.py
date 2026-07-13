@@ -1,6 +1,7 @@
 """Заготовки для решения. Реализуй функции, затем запусти проверку:
-    pytest test_lesson.py -v
+pytest test_lesson.py -v
 """
+
 
 # ---- Задача 1.1: Псевдоним или копия ----
 def make_pair(kind):
@@ -36,4 +37,3 @@ def safe_add(a, b):
 def predicted():
     return '[1, 2, 3, 99]'
     ...
-

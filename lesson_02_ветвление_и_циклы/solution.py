@@ -1,5 +1,5 @@
 """Заготовки для решения. Реализуй функции, затем запусти проверку:
-    pytest test_lesson.py -v
+pytest test_lesson.py -v
 """
 # ---- Задача 2.1: Классификация точки (match-case) ----
 def classify(point):
