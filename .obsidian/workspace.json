@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "8ad6b7535484bc54",
+    "type": "split",
+    "children": [
+      {
+        "id": "70367bc53e3c8cdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f12101a94bbbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional_theory/Теория по git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теория по git"
+            }
+          },
+          {
+            "id": "64dc11416a8826fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lesson_02_ветвление_и_циклы/теория/09 - match-case.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 - match-case"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "822c34b2cafd6b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9acd42ee89459ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e5dbd7adaf7108",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c0e8a72e75fef847",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "45d88d5a4aab04e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "4a953e20f17765ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad27e5f2f521d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d723b6e41d160fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lesson_02_ветвление_и_циклы/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "6aa719f8c4366a6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lesson_02_ветвление_и_циклы/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "5f40b2f4b9f0432d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e955df41a46a587b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "ec49a978db9ee52a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lesson_02_ветвление_и_циклы/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "03f12101a94bbbb5",
+  "lastOpenFiles": [
+    "Python_tasks_new",
+    "Новая папка",
+    "Улучшения курса.md",
+    "lesson_02_ветвление_и_циклы/README.md",
+    "Additional_theory/Теория по git.md",
+    "lesson_01_модель_данных_и_типизация/теория/01 - Типизация.md",
+    "README.md",
+    "lesson_02_ветвление_и_циклы/теория/09 - match-case.md",
+    "lesson_02_ветвление_и_циклы/теория/08 - Циклы.md",
+    "lesson_02_ветвление_и_циклы/теория/07 - Инструкции и ветвление.md",
+    "lesson_01_модель_данных_и_типизация/README.md",
+    "lesson_01_модель_данных_и_типизация/теория/03 - Объект.md",
+    "lesson_01_модель_данных_и_типизация/теория/04 - Интроспекция.md",
+    "lesson_01_модель_данных_и_типизация/теория/05 - Идентификаторы и связывание.md",
+    "lesson_01_модель_данных_и_типизация/теория/06 - Токены.md",
+    "lesson_02_ветвление_и_циклы/__pycache__/solution.cpython-314.pyc",
+    "lesson_02_ветвление_и_циклы/__pycache__/test_lesson.cpython-314-pytest-9.1.1.pyc",
+    "lesson_02_ветвление_и_циклы/__pycache__"
+  ]
+}
