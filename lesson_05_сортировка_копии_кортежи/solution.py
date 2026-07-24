@@ -12,7 +12,8 @@ def sort_words(words: list[str]) -> list[str]:
 
 # ---- Задача 5.2: Таблица лидеров (стабильность сортировки) ----
 def leaderboard(rows: list[tuple[str, int]]) -> list[tuple[str, int]]: 
-    return sorted(rows,key = lambda x: (-x[1],x[0]))
+    rows = sorted(rows,key = lambda x: x[0])
+    return sorted(rows,key = lambda x: x[1],reverse = True)
     ...
 
 # ---- Задача 5.3: Настоящая независимая копия ----
